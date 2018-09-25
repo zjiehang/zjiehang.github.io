@@ -7,8 +7,8 @@ title: Hexo
 subtitle:
 description:
 keywords:
-author: John Doe
-language:
+author: zjiehang
+language: zh
 timezone:
 
 # URL
@@ -17,6 +17,7 @@ url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+sidebar-avatar: image/avatar0.jpg
 
 # Directory
 source_dir: source
